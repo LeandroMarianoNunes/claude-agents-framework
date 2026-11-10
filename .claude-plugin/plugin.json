@@ -1,6 +1,6 @@
 {
   "name": "claude-agents-framework",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Doze rotinas agendadas de gestão (mercado, regulatório, custos, operação, produto, comercial, segurança, redes, clientes, newsletter e resumo para sócios) que se instalam por entrevista e se adaptam às ferramentas que a empresa já tem conectadas.",
   "author": {
     "name": "Leandro Mariano Nunes"

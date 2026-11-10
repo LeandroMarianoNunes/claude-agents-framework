@@ -83,7 +83,7 @@ Para cada rotina: o que entrega, o que precisa (categorias de `CONNECTORS.md`), 
 ## comercial
 
 - **Entrega:** funil por etapa com a variação do dia, o que se moveu, a agenda de reuniões cruzada com o CRM, o que está vencido ou esquecido e as três ações de maior valor do dia.
-- **Precisa:** `~~crm` com leitura dos negócios e dos campos (obrigatório), destino para publicar (obrigatório), `~~calendário` de quem vende (opcional; sem ele, a agenda vem só do CRM).
+- **Precisa:** `~~crm` com leitura dos negócios e dos campos (obrigatório), destino para publicar (obrigatório), `~~calendário` de quem vende (opcional; sem ele, a agenda vem só do CRM); `~~pagamentos` (opcional; permite conferir se o que o CRM chama de teste já virou cliente).
 - **Frequência padrão:** diária em dias úteis.
 - **Perguntas:**
   1. Qual quadro, funil ou lista do CRM é o comercial, e quais etapas ele tem, na ordem.
