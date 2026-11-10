@@ -1,7 +1,7 @@
 {
   "name": "claude-agents-framework",
-  "version": "0.3.0",
-  "description": "Rotinas agendadas de gestão (mercado, regulatório, segurança e IA responsável) que se instalam por entrevista e se adaptam às ferramentas que a empresa já tem conectadas.",
+  "version": "0.4.0",
+  "description": "Doze rotinas agendadas de gestão (mercado, regulatório, custos, operação, produto, comercial, segurança, redes, clientes, newsletter e resumo para sócios) que se instalam por entrevista e se adaptam às ferramentas que a empresa já tem conectadas.",
   "author": {
     "name": "Leandro Mariano Nunes"
   },
@@ -11,7 +11,11 @@
     "gestão",
     "market-intel",
     "compliance",
-    "segurança"
+    "segurança",
+    "finops",
+    "crm",
+    "redes-sociais",
+    "newsletter"
   ],
   "license": "MIT",
   "repository": "https://github.com/LeandroMarianoNunes/claude-agents-framework"

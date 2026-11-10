@@ -8,7 +8,7 @@
     {
       "name": "claude-agents-framework",
       "source": "./",
-      "description": "Rotinas agendadas de gestão que se instalam por entrevista e se adaptam às ferramentas que a empresa já tem conectadas."
+      "description": "Doze rotinas agendadas de gestão que se instalam por entrevista e se adaptam às ferramentas que a empresa já tem conectadas."
     }
   ]
 }
