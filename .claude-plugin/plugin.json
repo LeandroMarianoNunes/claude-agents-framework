@@ -1,0 +1,9 @@
+{
+  "name": "claude-agents-framework",
+  "version": "0.3.0",
+  "description": "Rotinas agendadas de gestão (mercado, regulatório, segurança e IA responsável) que se instalam por entrevista e se adaptam às ferramentas que a empresa já tem conectadas.",
+  "author": {
+    "name": "Leandro Mariano Nunes"
+  },
+  "keywords": ["rotinas", "agendamento", "gestão", "market-intel", "compliance", "segurança"]
+}

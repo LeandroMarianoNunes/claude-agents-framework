@@ -1,0 +1,14 @@
+{
+  "name": "claude-agents",
+  "description": "Rotinas agendadas de gestão para o Claude, instaladas por entrevista.",
+  "owner": {
+    "name": "Leandro Mariano Nunes"
+  },
+  "plugins": [
+    {
+      "name": "claude-agents-framework",
+      "source": "./",
+      "description": "Rotinas agendadas de gestão que se instalam por entrevista e se adaptam às ferramentas que a empresa já tem conectadas."
+    }
+  ]
+}
