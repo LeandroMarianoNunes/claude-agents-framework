@@ -41,3 +41,7 @@ Nenhuma credencial é pedida ou guardada. Ver `CONNECTORS.md` para as categorias
 - A rotina de segurança depende da calibração feita na instalação. Em ambientes sem acesso de leitura a banco, logs ou repositório, ela encolhe ou não é instalada.
 - A primeira semana serve para ajustar limites e ruído.
 - O plugin ainda não foi testado em uma empresa além da que originou as rotinas.
+
+## Licença
+
+MIT. Ver `LICENSE`.

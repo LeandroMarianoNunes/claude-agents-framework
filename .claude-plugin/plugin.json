@@ -5,5 +5,14 @@
   "author": {
     "name": "Leandro Mariano Nunes"
   },
-  "keywords": ["rotinas", "agendamento", "gestão", "market-intel", "compliance", "segurança"]
+  "keywords": [
+    "rotinas",
+    "agendamento",
+    "gestão",
+    "market-intel",
+    "compliance",
+    "segurança"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/LeandroMarianoNunes/claude-agents-framework"
 }
